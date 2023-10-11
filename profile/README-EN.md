@@ -1,4 +1,4 @@
-# projetDansLaMontagne (Project in the mountains) ([FR](./README.MD))
+# projetDansLaMontagne (Project in the mountains) ([Fr](./README.md))
 > Tutored third year project of BUT Informatique.
 
 ## The Team
