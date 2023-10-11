@@ -1,4 +1,4 @@
-# projetDansLaMontagne
+# projetDansLaMontagne ([en](./README-EN.md)
 > Projet tutoré de troisième année de BUT Informatique.
 
 ## L'équipe
